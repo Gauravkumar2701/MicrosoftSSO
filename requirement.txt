@@ -3,3 +3,4 @@ django_extensions
 pyOpenSSL
 Werkzeug
 django-werkzeug-debugger-runserver
+ms-identity-web
