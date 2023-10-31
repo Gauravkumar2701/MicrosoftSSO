@@ -1,0 +1,5 @@
+django
+django_extensions
+pyOpenSSL
+Werkzeug
+django-werkzeug-debugger-runserver
